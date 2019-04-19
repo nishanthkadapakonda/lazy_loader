@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "lazy_loading"
   spec.version       = LazyLoading::VERSION
   spec.authors       = ["nishanthkadapakonda"]
-  spec.email         = ["nkadapakonda@aligntech.com"]
+  spec.email         = ["nishanthkadapakonda16@gmail.com"]
 
   spec.summary       = %q{Lazy Loader Gem}
   spec.description   = %q{Lazy Loader gem is used for infinite scrolling}
